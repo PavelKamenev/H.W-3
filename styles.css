@@ -1,0 +1,136 @@
+ html,body {
+            margin: 0 auto;
+            width: 752px;
+            background-color: black;
+        }
+
+        div.all {
+            width: 752px; ;
+            background-color: white;
+        }
+
+        .top {
+            width: 752px;
+            height: 237px;
+            background-color: rgba(45, 112, 83, 1);
+            padding: 0;
+            margin: 0;
+            border: 1rem;
+            border-radius: .3rem;
+        }
+
+        .one {
+            transform: translate(37px, 46px);
+        }
+
+        .two {
+            padding-left: 85px;
+            display: inline-block;
+            width: 40px;
+            font-size: 31px;
+            vertical-align: -37px;
+            color: white;
+        }
+
+        .three {
+            transform: translate(338px, -62px);
+        }
+
+        .four {
+            transform: translate(247px, -28px);
+        }
+
+        .five {
+            transform: translate(156px, 5px);
+        }
+
+        .center {
+            width: 752px;
+            height: 470px;
+        }   
+        .six {
+            width: 752px;
+            height: 470px;
+        }
+
+        .seven {
+            transform: translate(198px, -102px);
+        }
+
+        .eight {
+            transform: translate(-109px, -132px);
+        }
+        
+        .bottom {
+            max-height: 400px;
+            background-color: white;
+        }
+
+        .nine {
+            border-radius: 50%; 
+            transform: translate(35px, 79px);
+        }
+
+        .align {
+            padding-left: 0px;
+            transform: translate(100px, -200px);
+            text-transform: capitalize;
+            text-align: center;
+            font-size: 40px;
+        }
+
+        pre {
+            text-transform: lowercase;
+            transform: translate(357px, -200px);
+            font-size: 20px;
+        }
+        ul {
+            padding-left: 55px;
+        }
+
+        .ten {
+            transform: translate(198px, 27px);
+        }
+
+        .eleven {
+            transform: translate(-109px, -3px);
+        }
+
+        p {
+            padding-left: 40px; 
+        }
+       
+        h2 {
+            text-align: center;
+        }
+
+        .bottom-bottom {
+            width: 752px;
+            height: 156px;
+            transform: translateY(77px);
+            background-color: rgba(136, 136, 136, 1);
+            padding: 0;
+            margin: 0;
+        }
+
+        .twelve {
+            transform: translate(44px, 41px);
+        }
+
+        .thirteen {
+            display: inline-block;
+            transform: translate(450px, 0px);    
+            color: white;
+        }
+
+        .fourteen {
+            display: inline-block;
+            transform: translate(279px, 40px);
+            color: white;
+        }
+
+        .fiveteen {
+            display: inline-block;
+            transform: translate(-174px, 40px);
+            color: white;
+        }
